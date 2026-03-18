@@ -1,4 +1,4 @@
-🎯 `teste123` — Player Utility Device
+🎯 `MainDeviceController` — Player Utility Device
 =====================================
 A flexible Verse device delivering prop attachment, stealth toggling, and a close-quarters attack tailored for Fortnite Creative/UEFN.
 
@@ -45,7 +45,7 @@ GrabAgent(agent: agent)
 
 🧪 Setup Checklist
 ------------------
-1. Add teste123 to your level.
+1. Add the MainDeviceController to your level.
 2. Assign the editable devices (AttachedProp, AttackInput, InvTrigger, PropTrigger).
 3. Confirm AttackInput is configured to forward the agent reference when activated.
 4. Optionally adjust damage, radius, or offsets directly in the Verse script.
